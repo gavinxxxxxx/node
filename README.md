@@ -41,3 +41,7 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 ##### Android7.0 以上才支持 stream api
 
 ##### [Android Studio 常用快捷键](https://github.com/gavinxxxxxx/node/blob/master/md/studio-shortcut-key.md)
+
+##### [Markdown 基本语法](https://github.com/gavinxxxxxx/node/blob/master/md/markdown-syntax.md)
+
+##### [SVG 基本语法](https://github.com/gavinxxxxxx/node/blob/master/md/svg-syntax.md)
