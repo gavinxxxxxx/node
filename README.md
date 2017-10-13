@@ -30,7 +30,7 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 }
 ```
 
-##### [Android studio：Gradle XXX project refresh failed 解决方案](https://github.com/gavinxxxxxx/node/blob/master/Gradle.md)
+##### [Android studio：Gradle XXX project refresh failed 解决方案](https://github.com/gavinxxxxxx/node/blob/master/md/Gradle.md)
 
 ##### ADB 无法关闭
 - 打开 cmd
@@ -39,3 +39,5 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 - 在任务管理器中关闭对应 pid 进程 或 `TASKLIST | findstr pid`
 
 ##### Android7.0 以上才支持 stream api
+
+##### [Android Studio 常用快捷键](https://github.com/gavinxxxxxx/node/blob/master/md/studio-shortcut-key.md)
