@@ -30,7 +30,7 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 }
 ```
 
-##### [Android studio：Gradle XXX project refresh failed 解决方案](https://github.com/gavinxxxxxx/node/blob/master/md/Gradle.md)
+##### [Android studio：Gradle XXX project refresh failed 解决方案](https://github.com/gavinxxxxxx/node/blob/master/md/gradle-project-refresh-failed.md)
 
 ##### ADB 无法关闭
 - 打开 cmd
