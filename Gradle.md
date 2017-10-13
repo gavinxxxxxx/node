@@ -21,4 +21,4 @@
 
 ![](https://github.com/gavinxxxxxx/node/raw/master/art/gradle-proxy-00.png)
 
-#### 4. 关闭 windows 防火墙 [参考](http://blog.csdn.net/zahngjialiang/article/details/61208256) （喵喵喵？？？）
+#### 4. 关闭 windows 防火墙 [参考](http://blog.csdn.net/zahngjialiang/article/details/61208256) （最终生效20171012喵喵喵？？？）
