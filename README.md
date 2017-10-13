@@ -31,3 +31,11 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 ```
 
 - [Android studio：Gradle XXX project refresh failed 解决方案](https://github.com/gavinxxxxxx/node/blob/master/Gradle.md)
+
+- ADB 无法关闭
+1. 打开 cmd
+2. 找到占用进程 `netstat -ano | findstr 5037`
+3. 记录占用进程 pid
+4. 在任务管理器中关闭对应 pid 进程 或 `TASKLIST | findstr pid`
+
+- Android7.0 以上才支持 stream api
