@@ -29,3 +29,5 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
     return result;
 }
 ```
+
+- [Android studio：Gradle XXX project refresh failed 解决方案](https://github.com/gavinxxxxxx/node/blob/master/Gradle.md)
