@@ -18,7 +18,6 @@
 - （可选）File -> Invalidate Caches / Restart
 
 #### 3. 设置代理 [参考](https://developer.android.google.cn/studio/intro/studio-config.html?hl=zh-cn#proxy) [参考](https://docs.gradle.org/current/userguide/build_environment.html#N10A53)
-
 ![](https://github.com/gavinxxxxxx/node/raw/master/art/gradle-proxy-00.png)
 
 #### 4. 关闭 windows 防火墙 [参考](http://blog.csdn.net/zahngjialiang/article/details/61208256) （最终生效20171012喵喵喵？？？）
