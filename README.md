@@ -45,3 +45,23 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 ##### [Markdown 基本语法](https://github.com/gavinxxxxxx/node/blob/master/md/markdown-syntax.md)
 
 ##### [SVG 基本语法](https://github.com/gavinxxxxxx/node/blob/master/md/svg-syntax.md)
+
+##### [解决可滑动布局（`RecyclerView`、`NestedScrollView`等）嵌套导致导致页面自动滑动无法准确定位问题](http://blog.csdn.net/yingpaixiaochuan/article/details/53190420)
+```
+<NestedScrollView
+    android:id="@+id/outer"
+    ... >
+    
+    <VeiwGroup
+        android:id="@+id/parent"
+        android:descendantFocusability="blocksDescendants"
+        ... >
+
+        <RecyclerView
+            android:id="@+id/inner"
+            ... />
+
+    <ViewGroup/>
+
+<NestedScrollView/>
+```
