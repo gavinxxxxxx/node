@@ -65,3 +65,6 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 
 <NestedScrollView/>
 ```
+
+##### 正则替换占位
+![](https://github.com/gavinxxxxxx/node/blob/master/art/regular-replace-placeholder.png)
