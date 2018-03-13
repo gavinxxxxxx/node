@@ -14,7 +14,6 @@
  - GitHub：https://github.com/gavinxxxxxx
 
  - 期望职位：Android开发工程师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：深圳
 
 ---
@@ -49,19 +48,30 @@ SchoolKeeper，内含即时聊天、多主题在线会议、邮件系统、行�
 ## 广州福慧文化传播有限公司 （ 2013年10月 ~ 2015年1月 ）
 
 ### 项目
-- G.Mall：一款专注于时尚个性轻奢侈的网上购物平台 瀑布流列表 积分商城 各种自定义动画
+- G.Mall：一款专注于时尚个性轻奢侈的网上购物平台 瀑布流列表 积分商城 各种自定义动画。
 - [广东医师](http://gdmda.org/appintro.asp)： 一款为广东医师协会提供的基于 cim 实现的即时通讯软件。
 
 
----
-
-# 开源项目和作品
-
-## 开源项目
+## 开源项目和作品
 
 - [MAZE](https://github.com/gavinxxxxxx/Maze)：采用 prim 算法，维持一个单元格二维数组，记录单元格四面墙壁状态，随机选择一个单元格作为起点加入已知列表中，循环从已知列表中选择单元格向四周未知拓展直到全部已知。优化 维护一个可拓展列表、多线程选多个起点同时进行最后合并。
 
 - [BindingAdapter](https://github.com/gavinxxxxxx/BindingAdapter)：基于 DataBinding 实现的万能列表适配器，使用时只需要在构造器中传入数据列表和布局资源文件 id 即可适配大部分列表页面。
+
+
+# 技能清单
+
+以下均为我熟练使用的技能
+
+- 熟练使用 Java，了解 Kotlin
+- 熟练使用 AndroidStudio、Eclipse 开发工具
+- 熟练使用 Android 基本 API、support API、design API、DataBinding 等，熟悉 Material Design
+- 熟悉 MVC、MVP、MVVM 
+- 熟练使用 RxJava、Retrofit、Dagger2、OKHttp、Glide、GreenDao、Gson 等常用框架
+- 熟练使用 SQLite 存储数据 熟悉基本 SQL 语句
+- 熟练使用正则表达式 正则替换
+- 熟练使用 Svn Git 等版本管理工具
+- 熟练使用 vector drawable，熟悉 SVG 语法
 
 
 # 致谢
