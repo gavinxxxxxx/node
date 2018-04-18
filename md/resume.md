@@ -63,7 +63,7 @@ SchoolKeeper，内含即时聊天、多主题在线会议、邮件系统、行�
 
 以下均为我熟练使用的技能
 
-- 熟练使用 Java，了解 Kotlin
+<!-- - 熟练使用 Java，了解 Kotlin -->
 - 熟练使用 AndroidStudio、Eclipse 开发工具
 - 熟练使用 Android 基本 API、support API、design API、DataBinding 等，熟悉 Material Design
 - 熟悉 MVC、MVP、MVVM 
