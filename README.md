@@ -68,3 +68,5 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
 
 ##### 正则替换占位
 ![](https://github.com/gavinxxxxxx/node/blob/master/art/regular-replace-placeholder.png)
+##### 正则前瞻后顾
+![](https://github.com/gavinxxxxxx/node/blob/master/art/regular-lookahead-lookbehind.png)
